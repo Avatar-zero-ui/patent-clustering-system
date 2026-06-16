@@ -64,16 +64,6 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn
 
 python main.py
 
-## Project Structure
-
-patent-clustering-system/
-│
-├── main.py
-├── dataset.csv
-├── screenshots/
-├── README.md
-└── requirements.txt
-
 ## Future Improvements
 
 * Dynamic Cluster Selection
