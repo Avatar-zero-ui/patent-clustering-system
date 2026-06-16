@@ -40,23 +40,23 @@ A Data Mining and Machine Learning application that performs patent clustering u
 
 ### Main Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.PNG)
 
 ### Heatmap Analysis
 
-![Heatmap](screenshots/heatmap.png)
+![Heatmap](screenshots/heatmap.PNG)
 
 ### Dendrogram
 
-![Dendrogram](screenshots/dendrogram.png)
+![Dendrogram](screenshots/dendrogram.PNG)
 
 ### PCA Visualization
 
-![PCA](screenshots/pca.png)
+![PCA](screenshots/pca.PNG)
 
 ### Cluster Distribution
 
-![Distribution](screenshots/distribution.png)
+![Distribution](screenshots/distribution.PNG)
 
 ## Installation
 
