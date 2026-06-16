@@ -56,7 +56,7 @@ A Data Mining and Machine Learning application that performs patent clustering u
 
 ### Cluster Distribution
 
-![Distribution](screenshots/distribution.PNG)
+![Distribution](screenshots/cluster_distribution.PNG)
 
 ## Installation
 
